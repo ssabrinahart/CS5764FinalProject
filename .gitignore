@@ -1,0 +1,5 @@
+.venv/*
+scatterplot_files/__pycache__/*
+choropleth_files/__pycache__/*
+choropleth_files/__pycache__/choropleth.cpython-312.pyc
+scatterplot_files/__pycache__/scatterplot.cpython-312.pyc
